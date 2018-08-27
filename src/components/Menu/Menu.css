@@ -1,0 +1,8 @@
+.Menu {
+  float: right;
+}
+
+.Menu > li:first-child {
+  position: absolute;
+  left: 50px;
+}
